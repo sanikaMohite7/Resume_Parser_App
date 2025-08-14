@@ -1,0 +1,5 @@
+We are seeking a Python/ML Engineer with experience in data preprocessing,
+model training, and deployment. Strong understanding of scikit-learn,
+pandas, numpy, and basic deep learning is preferred. Experience with cloud
+platforms (AWS/GCP), Docker, and CI/CD is a plus. Excellent communication
+and teamwork are essential.
